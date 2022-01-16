@@ -7,8 +7,8 @@ Tabela de conteúdos
    * [Sobre](#Sobre)
    * [Status do projeto](#status-do-projeto)
    * [Demonstração da aplicação](#Demonstração-da-aplicação)
-        * [Página inicial](#Página-inicial)
-        * [Dashboard](#Dashboard) 
+        * [Página inicial](#Demonstração-da-aplicação)
+        * [Dashboard](#Demonstração-da-aplicação) 
    * [Como usar](#como-usar)
    * [Tecnologias](#tecnologias)
 <!--te-->
