@@ -14,7 +14,7 @@ Tabela de conteúdos
 <!--te-->
 
 <h2>Sobre</h2>
-<p>Projeto da Semana Spring React da DevSuperior onde foi criado o front e back end, e feito a integração entre ambos.</p>
+<p>Projeto desenvolvido durante a Semana Spring React 5 da DevSuperior onde foi criado o front e back end, e feito a integração entre ambos.</p>
 
 <h2>Status do projeto</h2>
 Concluido.
